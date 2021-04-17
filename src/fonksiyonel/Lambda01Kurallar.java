@@ -21,7 +21,7 @@ Liste.forEach(t->{
      System.out.print(t+2+" ");
 });
 
-
+System.out.print("git den geldi ");
 
 
     }
